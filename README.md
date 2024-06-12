@@ -6,3 +6,8 @@ Usage :
 # will generate and save the image as night_sky_stars.png
 prompt("Beautiful night sky with lots of stars", "night-sky-stars")
 ```
+Requirements :
+```
+replicate
+requests
+```
